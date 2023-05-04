@@ -1,4 +1,4 @@
-# shopping_cart
+# flutter assignment
 
 A new Flutter project.
 
